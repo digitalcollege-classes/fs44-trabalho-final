@@ -33,26 +33,36 @@ Criar um MVP (Minimo Produto Viavel), focando no código, mas também no process
 ##### Ferramentas uteis:
 <details>
 	<summary>Criar documentação do Projeto</summary>
-	- Notion
-	- Github Wiki
-	- Github Markdown (no proprio repositorio) 
-	- Google Docs
+	
+- Notion
+	
+- Github Wiki
+
+- Github Markdown (no proprio repositorio) 
+
+- Google Docs
 </details>
 
 <details>
 	<summary>Board/Gerenciamento</summary>
-	- Github Projects
-	- Trello
-	- Notion 
-	- Jira	
+- Github Projects
+
+- Trello
+
+- Notion 
+
+- Jira	
 </details>
 
 <details>
 	<summary>Criar fluxogramas</summary>
-	- Mermaid.Live
-	- LucidChart
-	- ExcaliDraw 
-	- Draw.io	
+- Mermaid.Live
+
+- LucidChart
+
+- ExcaliDraw 
+
+- Draw.io	
 </details>
 
 ### EQUIPES
