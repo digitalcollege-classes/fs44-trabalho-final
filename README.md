@@ -28,6 +28,24 @@ Criar um MVP (Minimo Produto Viavel), focando no código, mas também no process
 7. Começar a fazer o código
 8. Criar os testes automatizados
 
+#### Critérios de Avaliação
+<table>
+	<thead>
+		<tr>
+			<th>Atributo</th>
+			<th>Tipo</th>
+			<th>Nota</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Desenvoltura</td>
+			<td>Apresentação</td>
+			<td>0 a 10</td>
+		</tr>
+	</tbody>
+</table>
+
 ##### Ferramentas uteis:
 <details>
 	<summary>Criar documentação do Projeto</summary>
