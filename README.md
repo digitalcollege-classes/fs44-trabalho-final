@@ -1,5 +1,3 @@
-# Trabalho Final
-
 ## DESCRIÇÃO
 Criar um MVP (Minimo Produto Viavel), focando no código, mas também no processo de desenvolvimento, desde a concepção da ideia até a entrega final.
 
@@ -23,7 +21,7 @@ Criar um MVP (Minimo Produto Viavel), focando no código, mas também no process
 #### Sugestão de passo a passo
 1. Criar o repositorio
 2. Criar um arquivo `discovery.md` ou em alguma ferramenta de documentação, e ir descrevendo o projeto, requisitos, e etc
-3. Criar um Projeto Board (Kamba/Scrum)
+3. Criar um Projeto Board (Kambam/Scrum)
 4. Criar as tarefas/issues (com os requisitos minimos)
 5. Desenhar o banco de dados (definindo tabelas, relacionamentos, etc)
 6. Iniciar documentação dos endpoints
@@ -33,36 +31,26 @@ Criar um MVP (Minimo Produto Viavel), focando no código, mas também no process
 ##### Ferramentas uteis:
 <details>
 	<summary>Criar documentação do Projeto</summary>
-	
-- Notion
-	
-- Github Wiki
-
-- Github Markdown (no proprio repositorio) 
-
-- Google Docs
+	- Notion
+	- Github Wiki
+	- Github Markdown (no proprio repositorio) 
+	- Google Docs
 </details>
 
 <details>
 	<summary>Board/Gerenciamento</summary>
-- Github Projects
-
-- Trello
-
-- Notion 
-
-- Jira	
+	- Github Projects
+	- Trello
+	- Notion 
+	- Jira	
 </details>
 
 <details>
 	<summary>Criar fluxogramas</summary>
-- Mermaid.Live
-
-- LucidChart
-
-- ExcaliDraw 
-
-- Draw.io	
+	- Mermaid.Live
+	- LucidChart
+	- ExcaliDraw 
+	- Draw.io	
 </details>
 
 ### EQUIPES
@@ -72,7 +60,8 @@ Criar um MVP (Minimo Produto Viavel), focando no código, mas também no process
 3. Wuller & Ronney: Tema 02
 4. Jorge & Jonathan: Tema 04
 5. Iasmin & Levi: Tema 08
-6. Saulo & Rachel: 
+6. Saulo: Tema 05
+7. Rachel: tema 07
 
 ### TEMAS
 #### 📌 Concessionária de Veículos
@@ -107,7 +96,7 @@ Sistema para aluguel de veículos com controle de frota, reservas, devoluções,
 
 #### 📌 Pizzaria (Online e Física)
 
-Time: Rachel e Saulo
+Time: Saulo
 
 Aplicativo híbrido para pedidos online e atendimento presencial, com montagem personalizada de pizzas, integração com entregadores, gestão de caixa e estoque de ingredientes.
 
@@ -120,7 +109,7 @@ Aplicativo financeiro para armazenamento de saldo, envio e recebimento de valore
 ---
 
 #### 📌 Rede Social
-
+Time: Rachel
 
 Plataforma de interação entre usuários com perfis, postagens, comentários, curtidas, mensagens privadas e sistema de notificações em tempo real.
 
